@@ -31,5 +31,6 @@ I Downloaded the CSV with the credentials
 
 I installed the AWS CLI using Gitpod environment
 
+![](https://github.com/urstrulybutch/aws-bootcamp-cruddur-2023/blob/week-0/journal/assets/GITPOD-SCREENSHOT.png)
 
 I was able to set AWS CLI to using partial autoprompt mode to make it easier to debug CLI commands.
