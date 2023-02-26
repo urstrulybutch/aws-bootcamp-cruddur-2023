@@ -6,4 +6,4 @@
 
 I added a Multi-factor Authentication on my AWS account for extra security
 
-!.[proof of AWS MFA AUTHENTICATION DONE].(assets.
+![](assets/AWS%20MFA%20%20FOR%20GITHUB.png)
