@@ -1,7 +1,7 @@
 # Week 1 — App Containerization
 
 # Containerize Backend-flask
-I ran the  python 
+I was able to write the Backend-flask 
 ![a screenshot of backend containerization](https://github.com/urstrulybutch/aws-bootcamp-cruddur-2023/blob/week-0/journal/assets/Backend-containization.png)
 
 I made sure to unlock the port tab- opened 4567 in my browser
@@ -15,12 +15,13 @@ I created a dockerfile and was able to run multiple containers using Docker-comp
 ![](https://github.com/urstrulybutch/aws-bootcamp-cruddur-2023/blob/week-0/journal/assets/docker-file.png)
 ![](https://github.com/urstrulybutch/aws-bootcamp-cruddur-2023/blob/week-0/journal/assets/docker-compose.png)
 
+
 Here is the app Frontend
 ![](https://github.com/urstrulybutch/aws-bootcamp-cruddur-2023/blob/week-0/journal/assets/app%20frontend.png)
 
-# Installed DynamoDB also Install and comfirm Postgres
+# Installed DynamoDB also Installed and comfirmed Postgres
 
-I was able to install DynamoDB without any  errors 
+I was able to install and run DynamoDB without any  errors 
 ![](https://github.com/urstrulybutch/aws-bootcamp-cruddur-2023/blob/week-0/journal/assets/DYNAMODB.png)
 
 Here is the comfirmation of the Postgres
