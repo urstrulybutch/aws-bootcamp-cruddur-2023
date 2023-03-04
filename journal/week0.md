@@ -1,6 +1,6 @@
 # Week 0 — Billing and Architecture
 
-# Require home work
+# Required home work
 
 ## MFA added for extra secury
 
