@@ -13,7 +13,7 @@ I added a Multi-factor Authentication on my AWS account for extra security
 I created an IAM user account
 
 
-![screenshot of iam user](https://github.com/urstrulybutch/aws-bootcamp-cruddur-2023/blob/week-0/journal/assets/aws-iamuser-screenmunch.png)
+![screenshot of iam user](journal/assets/aws-iamuser-screenmunch.png)
 
 I enabled console access for the user
 
