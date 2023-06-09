@@ -27,6 +27,5 @@ I have used this to show my first Honeycomb Heat map as shown in the screenshot 
 
 This screenshot displays a visual representation of the heatmap as well as the P90 duration results obtained from the trace.
 
-![]
-
+![](https://github.com/urstrulybutch/aws-bootcamp-cruddur-2023/blob/main/journal/assets/Honeycomb%20P90%3AHEATMAP.png)
 
