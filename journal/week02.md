@@ -5,6 +5,8 @@
 For this week, my main focus was on Observability, which involves the ability to access and analyze logs and traces of the programs I'm working with. This allows me to track my progress and identify specific errors or issues more effectively.
 
 
+# # HoneyComb Traces
+
 
 
 
