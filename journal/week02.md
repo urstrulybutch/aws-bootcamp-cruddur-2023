@@ -25,6 +25,8 @@ I have used this to show my first Honeycomb Heat map as shown in the screenshot 
 
 # # Honeycomb HeatMap/P90
 
+This screenshot displays a visual representation of the heatmap as well as the P90 duration results obtained from the trace.
+
 ![]
 
-This screenshot displays a visual representation of the heatmap as well as the P90 duration results obtained from the trace.
+
