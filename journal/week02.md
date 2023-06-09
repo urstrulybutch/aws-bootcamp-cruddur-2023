@@ -7,8 +7,7 @@ For this week, my main focus was on Observability, which involves the ability to
 
 # # HoneyComb Traces
 
-
-
+![](https://github.com/urstrulybutch/aws-bootcamp-cruddur-2023/blob/main/journal/assets/Honeycomb%20heatmap.png)
 
 
 
